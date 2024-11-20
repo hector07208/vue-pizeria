@@ -17,10 +17,12 @@
         "vite": "^5.0"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-svg-core": "^6.7.0",
-        "@fortawesome/free-solid-svg-icons": "^6.7.0",
+        "@fortawesome/fontawesome-svg-core": "^6.7.1",
+        "@fortawesome/free-solid-svg-icons": "^6.7.1",
         "@fortawesome/vue-fontawesome": "^3.0.0-5",
-        "sweetalert2": "^11.14.5",
+        "bootstrap": "^5.3.3",
+        "cross-spawn": "^7.0.6",
+        "sweetalert2": "^11.6.13",
         "vue-router": "^4.4.5",
         "vue-sweetalert2": "^5.0.11"
     }
